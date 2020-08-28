@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.yuan.demo")
 @SpringBootApplication
 public class DemoApplication {
-gdddddddddddd
+gdddddddddddd发发发、
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
